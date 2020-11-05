@@ -4,12 +4,8 @@
 666666
 7777777
 8888888
-<<<<<<< HEAD
-999999999
-=======
 999999999
 bbbbbbb
 ccccccc
 ddddd
 eeeeeeeeee
->>>>>>> dev
